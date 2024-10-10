@@ -5,7 +5,7 @@ This repository contains the completed version of the Koinx Backend assignment.
 Latest Cryptocurrency Status Data (append to the root url)
 
 ```bash
-  /api/status?coin=coin_name
+  /api/stats?coin=coin_name
 ```
 
 Standard Deviation value for a particular cryptocurrency (append to the root url)
